@@ -13783,5 +13783,5 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jh4L9g2/20240903-005251.jpg" group-title="11. INDONESIA",Antara TV ID
 https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
 
-#EXTM3U billed-msg="PLAYLIST PAKCIK PAKET 20K 3 MONTH playlist premium https://bio.link/p4kc1k"
+#EXTM3U billed-msg="github host"
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml,https://raw.githubusercontent.com/gogetta69/public-files/main/epg.xml" refresh="4"
